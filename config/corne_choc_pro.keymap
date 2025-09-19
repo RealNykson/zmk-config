@@ -80,7 +80,7 @@
 
             bindings = <
 &kp TAB    &kp Q                &kp W                &kp F                    &kp P                        &kp B    &kp K_MUTE  &kp C_PP  &kp J    &kp L                         &kp U              &kp Y                 &kp SQT                   &kp BSPC
-&kp LCTRL  &hm_left LEFT_WIN A  &hm_left LEFT_ALT R  &hm_left LEFT_CONTROL S  &hm_shift_left LEFT_SHIFT T  &kp G    &kp LALT    &kp RALT  &kp M    &hm_shift_right N LEFT_SHIFT  &hm_right E RCTRL  &hm_right I LEFT_ALT  &hm_right O LEFT_COMMAND  &kp SQT
+&kp LCTRL  &hm_left LEFT_WIN A  &hm_left LEFT_ALT R  &hm_left LEFT_CONTROL S  &hm_shift_left LEFT_SHIFT T  &kp G    &kp W       &kp RALT  &kp M    &hm_shift_right N LEFT_SHIFT  &hm_right E RCTRL  &hm_right I LEFT_ALT  &hm_right O LEFT_COMMAND  &kp SQT
 &kp LSHFT  &kp Z                &kp X                &kp C                    &kp D                        &kp V                          &kp K    &kp H                         &kp COMMA          &kp DOT               &kp FSLH                  &kp ESC
                                                      &kp ESCAPE               &lt 1 SPACE                  &kp TAB                        &kp RET  &lt 2 BACKSPACE               &mo 1
             >;
